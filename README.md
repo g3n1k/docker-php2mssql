@@ -20,7 +20,7 @@ git submodule update --remote
 
 if we want to clone full with submodule
 ````
-git clone https://github.com/this/dockerphpmssql.git your_project
+git clone https://github.com/g3n1k/docker-php2mssql.git your_project
 cd your_project
 git submodule init
 ````
